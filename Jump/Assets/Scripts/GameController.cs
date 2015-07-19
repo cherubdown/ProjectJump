@@ -16,10 +16,10 @@ public class GameController : MonoBehaviour {
 	}
 	
 	void Update () {
-        if (PlayerScr.MaxHeight > previousPlatformY + 10f)
+        if (PlayerScr.MaxHeight > previousPlatformY + 30f)
         {
             previousPlatformY = PlayerScr.MaxHeight;
-            Instantiate(BasePlatform, PlayerObj.transform.position + new Vector3(0f, 10f, 0), Quaternion.identity);
+            Instantiate(BasePlatform, PlayerObj.transform.position + new Vector3(0f, 30f, 0), Quaternion.identity);
         }
 	}
 }
