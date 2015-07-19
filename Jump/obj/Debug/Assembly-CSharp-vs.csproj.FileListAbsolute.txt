@@ -1,0 +1,13 @@
+E:\Programs\Unity\Jump\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Programs\Unity\Jump\Temp\bin\Debug\UnityEditor.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\UnityEngine.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\Mono.Cecil.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\Unity.DataContract.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Programs\Unity\Jump\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Programs\Unity\Jump\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\Programs\Unity\Jump\obj\Debug\Assembly-CSharp.dll
+E:\Programs\Unity\Jump\obj\Debug\Assembly-CSharp.pdb
